@@ -15,6 +15,7 @@
 | :--- | :--- |
 | **AI & LLM Development** | Claude Code, Cursor, OpenAI API, LangChain (LCEL) |
 | **Backend & Databases** | Python, FastAPI, PostgreSQL, SQLAlchemy ORM, Git |
+| **MLOPs & DVOPs** |  Kubernetes, Helm, GitLab CI, Argo CD, MLflow, PostgreSQL, Grafana, Docker
 | **Frontend & Web** | HTML5, CSS3, JavaScript (основы адаптивной верстки) |
 
 ---
