@@ -57,5 +57,5 @@
 ---
 
 ### 📨 Как со мной связаться:
-- **Telegram:** [@твой_ник](https://t.me)
-- **Email:** [твой_email@example.com]
+- **Telegram:** @vinkofff
+- **Email:** zdvinkofff@gmail.com
