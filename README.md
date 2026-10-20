@@ -30,7 +30,3 @@
 - **Telegram:** [@vinkofff](https://t.me)
 - **Email:** zdvinkofff@gmail.com
 
-
-### 📨 Как со мной связаться:
-- **Telegram:** @vinkofff
-- **Email:** zdvinkofff@gmail.com
