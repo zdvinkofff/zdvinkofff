@@ -11,16 +11,11 @@
 
 ### 🛠️ Технологический стек & Инструменты
 
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+| Сфера | Технологии и инструменты |
+| :--- | :--- |
+| **AI & LLM Development** | Claude Code, Cursor, OpenAI API, LangChain (LCEL) |
+| **Backend & Databases** | Python, FastAPI, PostgreSQL, SQLAlchemy ORM, Git |
+| **Frontend & Web** | HTML5, CSS3, JavaScript (основы адаптивной верстки) |
 
 ---
 
@@ -31,14 +26,10 @@
 
 ---
 
-### 📊 Моя GitHub Статистика
+### 📨 Как со мной связаться:
+- **Telegram:** [@vinkofff](https://t.me)
+- **Email:** zdvinkofff@gmail.com
 
-<p align="center">
-  <img src="https://vercel.app" width="45%" />
-  <img src="https://vercel.app" width="45%" />
-</p>
-
----
 
 ### 📨 Как со мной связаться:
 - **Telegram:** @vinkofff
